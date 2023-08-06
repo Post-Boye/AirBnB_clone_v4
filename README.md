@@ -13,7 +13,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 ## Authors
 
 Boye Justice - boyejustice64@gmail.com
-
+Reginald Amuzu - reginaldrock219@gmail.com
 
 ## License
 
